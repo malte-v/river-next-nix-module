@@ -25,7 +25,7 @@ linkFarm "zig-packages" [
   {
     name = "known_folders-0.0.0-Fy-PJk3KAACzUg2us_0JvQQmod1ZA8jBt7MuoKCihq88";
     path = fetchzip {
-      url = "https://codeload.github.com/ziglibs/known-folders/tar.gz/d6d03830968cca6b7b9f24fd97ee348346a6905d";
+      url = "https://github.com/ziglibs/known-folders/archive/d6d03830968cca6b7b9f24fd97ee348346a6905d.tar.gz";
       hash = "sha256-8LlAnEwuoeQuN9V5nUuh2UwXRhS5KOwDkpm6yuOfClk=";
     };
   }
@@ -53,7 +53,7 @@ linkFarm "zig-packages" [
   {
     name = "zeit-0.6.0-5I6bk7q6AgBdMJxze3D4l9ylQhkviQ_BX9FigDt13MFn";
     path = fetchzip {
-      url = "https://codeload.github.com/rockorager/zeit/tar.gz/refs/tags/v0.8.0";
+      url = "https://github.com/rockorager/zeit/archive/refs/tags/v0.8.0.tar.gz";
       hash = "sha256-LFNg8yu82OcQ+Yyxw1bTotjW18oVhNiYrFGIE/7WWR4=";
     };
   }
